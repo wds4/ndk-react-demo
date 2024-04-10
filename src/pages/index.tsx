@@ -25,6 +25,7 @@ export default function Home() {
               </p>
 
               <p>Edit 1</p>
+              <p>Edit 2</p>
 
               <div>
                 <a href="#GetStarted">Get Started</a> |{" "}
