@@ -24,6 +24,8 @@ export default function Home() {
                 to use in React.
               </p>
 
+              <p>Edit 1</p>
+
               <div>
                 <a href="#GetStarted">Get Started</a> |{" "}
                 <a href="#Signers">Signers</a> | <a href="#Events">Events</a> |{" "}
